@@ -35,4 +35,4 @@
 
 ## Acknowledgements <a name="acknowledgement"></a>
 
-This simple demo was built through **freeCodeCamp** article [An itro to Webpack](https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/)
+This simple demo was built through **freeCodeCamp** article [An intro to Webpack](https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/)
