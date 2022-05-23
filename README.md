@@ -4,9 +4,7 @@
 
 - [About](#about)
 - [Build Setup](#build_setup)
-- [Must-Read Notes](#must_read_notes)
 - [Built Using](#built_using)
-- [TODO](#todo)
 - [Acknowledgements](#achknowledgement)
 
 ## About <a name="about"></a>
